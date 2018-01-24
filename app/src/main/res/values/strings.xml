@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Root Calculator</string>
+    <string name="x">x²+</string>
+    <string name="enter_number_for_a">Enter number for \'a\'</string>
+    <string name="enter_number_for_b">Enter number for \'b\'</string>
+    <string name="enter_number_for_c">Enter number for \'c\'</string>
+    <string name="x2">x +</string>
+    <string name="root1">root1</string>
+    <string name="root2">root2</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="quit">QUIT</string>
+    <string name="reset">RESET</string>
+</resources>

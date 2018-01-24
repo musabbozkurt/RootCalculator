@@ -79,7 +79,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         mAdView.loadAd(adRequest);
 
         mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-7816554778639642/4175809116");
+        mInterstitialAd.setAdUnitId("ca-app-pub-7816554778639642/2721759669");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
         mInterstitialAd.setAdListener(new AdListener(){
             @Override
